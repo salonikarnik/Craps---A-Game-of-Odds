@@ -1,0 +1,65 @@
+Round 1 : 
+
+Strategy	 No. of Games	 Ending Balance
+
+
+1 	10		$1400
+
+2 	10		$1400
+
+3 	10		$600
+
+
+
+Round 2 : 
+
+Strategy	 No. of Games	 Ending Balance
+
+
+1 	10		$1000
+
+2 	6		$0
+
+3 	10		$300
+
+
+
+Round 3 : 
+
+Strategy	 No. of Games	 Ending Balance
+
+
+1 	10		$1200
+
+2 	10		$1500
+
+3 	10		$500
+
+
+
+Round 4 : 
+
+Strategy	 No. of Games	 Ending Balance
+
+
+1 	10		$1000
+
+2 	10		$1700
+
+3 	10		$3900
+
+
+
+Round 5 : 
+
+Strategy	 No. of Games	 Ending Balance
+
+
+1 	10		$600
+
+2 	10		$800
+
+3 	10		$600
+
+
+
